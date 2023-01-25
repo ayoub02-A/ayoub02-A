@@ -25,7 +25,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub02-a&show_icons=true&locale=en&layout=compact" alt="ayoub02-a"  width="400" height="600"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub02-a&show_icons=true&locale=en&layout=compact" alt="ayoub02-a"  width="200" height="600"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub02-a&show_icons=true&locale=en" alt="ayoub02-a" width="400" height="400"/></p>
 
