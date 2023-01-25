@@ -21,7 +21,7 @@
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=ayoub02-a" alt="ayoub02-a" /></a> </p>
 
 
-
+<p> <h2> Stats : </h2>  </p>
 
 
 
