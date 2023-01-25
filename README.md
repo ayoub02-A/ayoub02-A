@@ -7,6 +7,8 @@
 - 🤣 Fun fact : There's no fun when you find an error on line 30 in a 29-line code 😕
 
 
+<h2> Languages and Tools: </h2>
+
 
 
 <!---
