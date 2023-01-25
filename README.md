@@ -18,7 +18,7 @@
 
 <p> <h2> Trophies : </h2>  </p>
 
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=ayoub02-a" alt="ayoub02-a" /></a> </p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=ayoub02-a" alt="ayoub02-a" /></a> </p>
 
 
 
