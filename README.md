@@ -25,9 +25,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub02-a&show_icons=true&locale=en&layout=compact" alt="ayoub02-a" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub02-a&show_icons=true&locale=en&layout=compact" alt="ayoub02-a" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub02-a&show_icons=true&locale=en" alt="ayoub02-a" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayoub02-a&show_icons=true&locale=en" alt="ayoub02-a" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub02-a&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub02-a" /> </p>
 
