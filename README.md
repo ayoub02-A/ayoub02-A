@@ -11,7 +11,6 @@
 
 <h2> Languages and Tools: </h2>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub02-a&label=Profile%20views&color=0e75b6&style=flat" alt="ayoub02-a" /> </p>
 
