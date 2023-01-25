@@ -20,7 +20,8 @@
 
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=ayoub02-a" alt="ayoub02-a" /></a> </p>
 
-<h2> Stats : </h2> 
+<p><h2> Stats : </h2> </p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoub02-a&show_icons=true&locale=en&layout=compact" alt="ayoub02-a"  width="500" height="210"/>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoub02-a&show_icons=true&locale=en" alt="ayoub02-a" width="500" height="400"/></p>
 
