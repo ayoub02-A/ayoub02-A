@@ -1,6 +1,6 @@
 <h2> Hi there 👋 </h2>
 
-- 👋 Hi, I’m Ayoub Ouhdidou 😄, i'm a computer science student in University Moulay Ismail, Meknes,Morocco.
+- 👋 Hi, I’m Ayoub Ouhdidou 😄, I'm a computer science student in University Moulay Ismail, Meknes,Morocco. I'm currently studying in FH Aachen, Aachen, Germany.
 - 👀 I’m interested in ... emm just working on Myslef 😊
 - 🌱 I’m currently learning Advanced Python 🐍
 - 👨‍💻 My acquired programming languages : Python - java - C++ - C - HTML -CSS
